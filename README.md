@@ -10,6 +10,7 @@
 - [Key Insights](#Key-Insights)
 ### Project Overview
 This project is a data dashboard built using Microsoft Excel to track and visualize the performance of sales agents. It provides a detailed analysis of KPIs such as the number of calls made, deals closed, call drop rates, and total sales value over time. The dashboard is designed to help sales managers evaluate the productivity of each agent, understand trends in sales activities, and identify areas for improvement.
+<img width="890" height="419" alt="Sales Agents Dashboard" src="https://github.com/user-attachments/assets/89334a15-3243-4f82-a1b6-34648677ec07" />
 ### Objectives
 The main objective of this project is to create an interactive and visually appealing dashboard that provides actionable insights into the performance of sales agents. The goal is to:
 - Track key performance metrics of sales agents.
